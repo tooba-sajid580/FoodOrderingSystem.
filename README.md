@@ -18,7 +18,7 @@ How to Run
 3. Compile and run the program
 
 Screenshot
-    [program output](Screenshot.png)
+   [program output](Screenshot.png)
     
 License
 This project is open-source and free to use.
